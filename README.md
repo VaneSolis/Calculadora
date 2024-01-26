@@ -3,6 +3,6 @@ En este repositorio se encuentra una práctica de uso de HTML5 y JavaScript en l
 
 ### CAPTURAS DE PANTALLA:
 
-![Calculadora](imagenes/readme/Calculadora-JS.png)
+![Calculadora](imagenes/Calculadora-JS.png)
 
 LINK AL SITIO: https://calculjavascript.netlify.app/
